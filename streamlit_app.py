@@ -7,7 +7,7 @@ import pickle
 import numpy as np
 import cv2
 from extract_features import extract
-st.write("🚀 Streamlit app loaded")
+
 
 st.set_page_config(page_title="Indian Art Gaussian Classifier")
 
